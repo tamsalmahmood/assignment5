@@ -1,0 +1,100 @@
+.head
+{ 
+    color:rgb(17, 17, 98);
+    margin: 3pc;
+    background-color:bisque;
+    font-family:Arial, Helvetica, sans-serif;
+    font: weight 100px;;
+    font-size: 1200;
+    word-spacing: 2px;
+    text-shadow: 5px 5px 2px #6f5e08; 
+    text-transform: uppercase; 
+    text-decoration: underline black;
+    text-decoration-style: double;
+}
+
+.first
+{
+    text-transform: uppercase;
+    font-weight:bold;
+}
+
+h1
+{
+   
+    background-color: rgb(144, 147, 198);
+    text-transform: uppercase;
+    text-decoration:underline;
+    line-height: 1.4em;
+    
+}
+
+body
+{
+    background-color: rgb(202, 193, 193);
+}
+
+p~ul
+{
+   font-weight: bold;
+   word-spacing: 1px;
+   
+}
+
+.center
+{
+    text-decoration: underline rgb(12, 12, 12);
+}
+.double
+{
+
+   text-decoration: underline c ;
+   text-decoration-style: wavy;
+   background-color: #b3b0a2;
+   size: 12;  
+
+}
+.underline
+{
+    font-weight: bold;
+    text-decoration: underline rgb(124, 159, 197);;
+    text-decoration-style:double ;
+}
+
+.aspire
+{
+text-decoration: underline rgb(138, 154, 178) ;
+letter-spacing: 0.1em;
+word-spacing: 1px;
+}
+.topi a{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+/* unvisited link */
+.path a:link {
+    color: rgb(56, 97, 5);
+  }
+  
+  /* visited link */
+  .path a:visited {
+    color: rgb(22, 102, 106);
+    background-color: #b3b0a2;
+  }
+  
+  /* mouse over link */
+  .path a:hover {
+    color: rgb(184, 91, 139);
+    background-color: lightpink;
+  }
+  
+  /* selected link */
+  .path a:active {
+    color: rgb(188, 108, 28);
+    background-color: rgb(237, 185, 107);
+  }
+
+
